@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sreejish
+- 👋 Hi, I’m V.V.Sreejish
 - 👀 I’m interested in Coding, Photography , trekking
 - 🌱 I’m currently learning Databricks
 - 💞️ I’m looking to collaborate on exciting projects with data analytics
